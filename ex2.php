@@ -3,4 +3,3 @@
 $name = 'Alice';
 $age = 30;
 echo "$name is $age years old.\n";
-?>
